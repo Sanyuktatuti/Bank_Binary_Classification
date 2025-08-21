@@ -2,4 +2,4 @@ data/
 .venv/
 .kaggle/
 submissions/
-submissions_*.csvsubmissions_*.csv
+submissions_*.csv
